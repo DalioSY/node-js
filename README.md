@@ -38,6 +38,6 @@ Contatos:
 <p>
 Se gostou dê uma curtida 👍. 
 </p>
-#devclub #nodejs #javascript #backend #desenvolvimentoweb #npm #cadastro #validacao #seguranca #github
+#devclub #nodejs #javascript #backend #desenvolvimentoweb #npm #cadastro #validacao #seguranca #github #node-js
 
-<img src="./assets/img-web.png" alt="img web"># node-js
+<img src="./assets/img-web.png" alt="img web">
