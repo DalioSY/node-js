@@ -40,4 +40,4 @@ Se gostou dê uma curtida 👍.
 </p>
 #devclub #nodejs #javascript #backend #desenvolvimentoweb #npm #cadastro #validacao #seguranca #github
 
-<img src="./assets/img-web.png" alt="img web">
+<img src="./assets/img-web.png" alt="img web"># node-js
